@@ -1,4 +1,24 @@
-4642
+4643
+78C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\lmdb\util\when.js133997622863134987 0
+93C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\fs\src\NodeFS.browser.js133997622899146864 0
+91C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\commander\package-support.json133997622862174987 0
+104C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\entities\package.json133997622906816880 0
+87C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@swc\helpers\cjs\index.cjs133997622859184992 0
+80C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\micromatch\index.js133997622858424995 0
+90C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\workers\lib\Worker.js133997622872157675 0
+80C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\color-name\index.js133997622858414992 0
+84C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\browserslist\index.d.ts133997622858654996 0
+70C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@mischnic133997622856844532 1
+88C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\agents.js133997622862844987 0
+66C:\Users\sebas\OneDrive\Escritorio\dev\timeline\src\App.module.css133997683639945347 0
+89C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\utils\src\urlJoin.js133997622876225814 0
+130C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133997622899326884 0
+60C:\Users\sebas\OneDrive\Escritorio\dev\timeline\package.json133997632042519307 0
+113C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-background-offsets.js133997622863534989 0
+77C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\LICENSE133997622861254992 0
+58C:\Users\sebas\OneDrive\Escritorio\dev\timeline\.gitignore133997700363442270 0
+90C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@dnd-kit\core\dist\components133997632042100119 1
+95C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\minifyCss.cjs133997622871607670 0
 86C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\ordered-binary\index.d.ts133997622860694994 0
 76C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\.bin\parcel.ps1133997622914024952 0
 126C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133997622906856880 0
@@ -23,7 +43,6 @@
 92C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\regions\CD.js133997622863314988 0
 103C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\lightningcss\node\browserslistToTargets.js133997622861344989 0
 63C:\Users\sebas\OneDrive\Escritorio\dev\timeline\instructions.md133997621321927843 0
-59C:\Users\sebas\OneDrive\Escritorio\dev\timeline\src\app.css133997690393161497 0
 88C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\react-dom\server.browser.js133997622862144988 0
 98C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\transformer-svg\lib\inline.js133997622872457675 0
 92C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\regions\MR.js133997622865669396 0
@@ -36,21 +55,6 @@
 95C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\cors.js133997622863454984 0
 60C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules133997632042489322 1
 84C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\weak-lru-cache\index.js133997622860124995 0
-78C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\lmdb\util\when.js133997622863134987 0
-93C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\fs\src\NodeFS.browser.js133997622899146864 0
-91C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\commander\package-support.json133997622862174987 0
-104C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\entities\package.json133997622906816880 0
-87C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@swc\helpers\cjs\index.cjs133997622859184992 0
-80C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\micromatch\index.js133997622858424995 0
-90C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\workers\lib\Worker.js133997622872157675 0
-80C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\color-name\index.js133997622858414992 0
-84C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\browserslist\index.d.ts133997622858654996 0
-70C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@mischnic133997622856844532 1
-88C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\agents.js133997622862844987 0
-66C:\Users\sebas\OneDrive\Escritorio\dev\timeline\src\App.module.css133997683639945347 0
-89C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\utils\src\urlJoin.js133997622876225814 0
-130C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133997622899326884 0
-60C:\Users\sebas\OneDrive\Escritorio\dev\timeline\package.json133997632042519307 0
 101C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\entities\readme.md133997622906846886 0
 106C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133997622902566893 0
 69C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml133997622860234992 1
@@ -66,6 +70,7 @@
 111C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\document-execcommand.js133997622864434994 0
 57C:\Users\sebas\OneDrive\Escritorio\dev\timeline\README.md133997696185083420 0
 77C:\Users\sebas\OneDrive\Escritorio\dev\timeline\src\hooks\useTimelineLogic.js133997690393637561 0
+59C:\Users\sebas\OneDrive\Escritorio\dev\timeline\src\app.css133997690393161497 0
 89C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\watcher\src\Event.hh133997622865014984 0
 89C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml-parser\package.json133997622860144993 0
 102C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\canvas-text.js133997622863304989 0
@@ -464,10 +469,6 @@
 96C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\transformer-babel\README.md133997622881455876 0
 92C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\regions\ZM.js133997622866878435 0
 105C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\variable-fonts.js133997622866616015 0
-104C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133997622876775806 0
-92C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\regions\TN.js133997622866496014 0
-93C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\electron-to-chromium\versions.js133997622861544990 0
-106C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\domutils\lib\helpers.js133997622905416889 0
 66C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\react133997622860445009 1
 106C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\lib\esm\generated\encode-html.js.map133997622862084988 0
 82C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\msgpackr\dist\test.js133997622861784990 0
@@ -1413,6 +1414,10 @@
 104C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\domutils\lib\feeds.js133997622905416889 0
 84C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\braces\lib\constants.js133997622858474993 0
 97C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\ordered-binary\assets\powers-dre.png133997622860684991 0
+104C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133997622876775806 0
+92C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\regions\TN.js133997622866496014 0
+93C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\electron-to-chromium\versions.js133997622861544990 0
+106C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\domutils\lib\helpers.js133997622905416889 0
 93C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\msgpackr-extract\src\extract.cpp133997622860624990 0
 86C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\namer-default\src133997622893854928 1
 106C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\posthtml\node_modules\domutils\lib\index.d.ts133997622905506886 0
@@ -2237,10 +2242,6 @@
 90C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\browsers.js133997622863254988 0
 105C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\object-observe.js133997622865799396 0
 111C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\minifyConditionalComments.mjs133997622876825824 0
-113C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-background-offsets.js133997622863534989 0
-90C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@dnd-kit\core\dist\components133997632042100119 1
-95C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\minifyCss.cjs133997622871607670 0
-77C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\LICENSE133997622861254992 0
 95C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\minifyCss.mjs133997622876835849 0
 94C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\htmlnano\lib\modules\minifyJs.cjs133997622871617671 0
 75C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\plugin133997622886830621 1
@@ -2403,8 +2404,6 @@
 87C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\lib\esm\decode.js133997622861404991 0
 98C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\pointer.js133997622865959395 0
 91C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\lib\esm\decode.js.map133997622862034989 0
-107C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133997622866688430 0
-105C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-snappoints.js133997622864124988 0
 99C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\lib\esm\decode_codepoint.d.ts133997622862264987 0
 102C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@parcel\core\test\fixtures\common-targets133997622909650542 1
 97C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\entities\lib\esm\decode_codepoint.js133997622861294988 0
@@ -3021,6 +3020,8 @@
 110C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133997622864094988 0
 111C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\@swc\helpers\esm\_unsupported_iterable_to_array.js133997622859704991 0
 99C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-sel2.js133997622864104986 0
+107C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133997622866688430 0
+105C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-snappoints.js133997622864124988 0
 107C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-supports-api.js133997622864144985 0
 110C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-text-align-last.js133997622864154988 0
 108C:\Users\sebas\OneDrive\Escritorio\dev\timeline\node_modules\caniuse-lite\data\features\css-text-box-trim.js133997622864164987 0
