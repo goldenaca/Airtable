@@ -1,7 +1,3 @@
-# Timeline Visualization
-
-A React-based interactive timeline component for visualizing project items with drag & drop functionality.
-
 ## Features
 
 - **Lane-based Layout**: Items automatically organize into horizontal lanes for space efficiency
@@ -18,14 +14,6 @@ npm start
 ```
 
 Opens at `http://localhost:1234`
-
-## Tech Stack
-
-- **React 18** with hooks
-- **@dnd-kit** for drag and drop
-- **CSS Modules** for scoped styling
-- **HTML/CSS positioning** (uses standard div elements)
-- **Parcel** for zero-config bundling
 
 ## Architecture
 
@@ -45,7 +33,6 @@ src/
 
 - **Modular Components**: Each component has its own CSS module and focused responsibility
 - **Custom Hook**: All business logic separated into `useTimelineLogic` hook
-- **HTML Divs**: Uses standard HTML elements for better familiarity and easier styling
 - **Hybrid Interactions**: @dnd-kit for movement + custom handlers for resizing
 - **Immediate Feedback**: No save buttons - all changes apply instantly
 
@@ -55,5 +42,3 @@ src/
 2. **Resize Items**: Drag the right edge to extend/shorten duration
 3. **Edit Names**: Click on item text to edit inline
 4. **Zoom**: Use controls to scale timeline view
-
-Built for the Airtable timeline assignment with modern React patterns and clean, maintainable code.
