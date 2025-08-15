@@ -1,0 +1,181 @@
+.pkp0FW_container {
+  background: #fff;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  margin: 0 auto 20px;
+  padding: 10px;
+  display: flex;
+  box-shadow: 0 2px 4px #0000001a;
+}
+
+.pkp0FW_button {
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 14px;
+  transition: all .2s;
+}
+
+.pkp0FW_button:hover {
+  background: #f0f0f0;
+  border-color: #4285f4;
+}
+
+.pkp0FW_button:active {
+  background: #e0e0e0;
+}
+
+.pkp0FW_zoomLabel {
+  color: #333;
+  font-weight: 500;
+}
+
+.a9HMBW_gridContainer {
+  pointer-events: none;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.a9HMBW_monthLine {
+  background: #e0e0e0;
+  width: 1px;
+  position: absolute;
+}
+
+.a9HMBW_monthText {
+  color: #666;
+  white-space: nowrap;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  position: absolute;
+}
+
+.L2nIZW_timelineItem {
+  border-radius: 4px;
+  transition: opacity .2s;
+  overflow: hidden;
+}
+
+.L2nIZW_timelineItem:hover {
+  opacity: .9;
+}
+
+.L2nIZW_dragging {
+  opacity: .7;
+  z-index: 1000;
+}
+
+.L2nIZW_resizing {
+  opacity: .8;
+}
+
+.L2nIZW_itemBackground {
+  cursor: move;
+  background: #4285f4;
+  border: 1px solid #1a73e8;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  width: calc(100% - 8px);
+  height: 100%;
+  position: relative;
+}
+
+.L2nIZW_itemContent {
+  align-items: center;
+  height: 100%;
+  padding: 8px;
+  display: flex;
+}
+
+.L2nIZW_resizeHandle {
+  cursor: ew-resize;
+  background: #1a73e8;
+  width: 8px;
+  height: 100%;
+  transition: background .2s;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.L2nIZW_resizeHandle.L2nIZW_resizing {
+  background: #ff6b35;
+}
+
+.L2nIZW_itemText {
+  color: #fff;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: text;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.L2nIZW_itemInput {
+  color: #fff;
+  background: none;
+  border: none;
+  outline: none;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 12px;
+}
+
+.MPMxcW_container {
+  max-width: 100vw;
+  padding: 20px;
+  overflow: auto;
+}
+
+.MPMxcW_wrapper {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: auto;
+  box-shadow: 0 2px 8px #0000001a;
+}
+
+.MPMxcW_timelineContainer {
+  background: none;
+  min-width: 100%;
+}
+
+.MPMxcW_dragOverlay {
+  color: #fff;
+  opacity: .8;
+  background-color: #4285f4;
+  border: 1px solid #1a73e8;
+  border-radius: 4px;
+  align-items: center;
+  padding: 0 8px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  display: flex;
+}
+
+.gPMrEW_appHeader {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.gPMrEW_appHeader h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.gPMrEW_appHeader h3 {
+  color: #666;
+  font-weight: normal;
+}
+/*# sourceMappingURL=timeline.9f367d21.css.map */
